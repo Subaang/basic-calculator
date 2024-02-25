@@ -1,0 +1,32 @@
+html{
+    height:100%;
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100%;
+}
+
+.container{
+    width:30vw;
+    height:60vh;
+    border:black solid;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.display{
+    width:95%;
+    height:20%;
+    margin:10px;
+    
+}
+
+
+button{
+    width:25%;
+}
